@@ -1,4 +1,3 @@
-## Blender Game Example
-Scene on the game engine Blender 2.79
+## Blender Racing Example
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/Bonus-Cars-Mod/main/bonus_mod.jpg" alt="">
+<img src="https://github.com/AlSpudnik/Blender-Game-Racing-Example/blob/main/blender_racing.jpg" alt="">
